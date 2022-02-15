@@ -1,0 +1,6 @@
+d = int(input())
+    e = int(input())
+    f=d//e
+    print(f)
+    p=d/e
+    print(p)
