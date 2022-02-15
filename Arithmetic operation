@@ -1,0 +1,8 @@
+p = int(input())
+    q = int(input())
+    s=p+q
+    print(s)
+    su=p-q
+    print(su)
+    r=p*q
+    print(r)
